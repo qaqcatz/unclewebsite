@@ -4,7 +4,10 @@
 
 # Default language
 en:
-  languageCode: en-us
+  languageCode: zh-Hans
+  title: 网页测试
+  params:
+    description: 用于公司介绍
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
