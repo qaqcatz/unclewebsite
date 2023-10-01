@@ -5,9 +5,9 @@
 # Default language
 en:
   languageCode: zh-Hans
-  title: 网页测试
+  title: 潍坊祥和建筑劳务有限公司
   params:
-    description: 用于公司介绍
+    description: None
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
